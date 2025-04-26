@@ -4,6 +4,15 @@ Create boilerplates
 
 ---
 
+## Usage
+
+```shell
+chmod +x boilerplater
+./boilerplater <boilerplate_file> <new_file_name>
+```
+
+---
+
 ## :balance_scale: License
 
 ​[​Apache License 2.0](./LICENSE)
