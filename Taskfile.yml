@@ -1,0 +1,16 @@
+---
+version: '3'
+
+tasks:
+  bash:
+    desc: Bash
+    cmds:
+      - jinja2 -D DATE="$(date '+%d %b %Y')" boilerplate-bash.j2
+  foo:
+    desc: bar
+    cmds:
+      - echo "baz"
+  default:
+    cmds:
+      - task -l
+    silent: true 

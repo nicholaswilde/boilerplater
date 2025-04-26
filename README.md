@@ -1,10 +1,11 @@
 # boilerplater
+[![task](https://img.shields.io/badge/Task-Enabled-brightgreen?style=for-the-badge&logo=task&logoColor=white)](https://taskfile.dev/#/)
 
-Create boilerplates
+Create [boilerplates][2].
 
 ---
 
-## Usage
+## :pencil: Usage
 
 ```shell
 chmod +x boilerplater
@@ -21,6 +22,7 @@ chmod +x boilerplater
 
 ## :pencil:​ Author
 
-​This project was started in 2025 by [Nicholas Wilde][2].
+​This project was started in 2025 by [Nicholas Wilde][1].
 
-[2]: <https://github.com/nicholaswilde/>
+[1]: <https://github.com/nicholaswilde/>
+[2]: <https://en.wikipedia.org/wiki/Boilerplate_code>
